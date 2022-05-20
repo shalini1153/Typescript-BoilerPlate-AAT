@@ -1,0 +1,8 @@
+npm install -g typescript 
+tsc --init
+
+
+ts-node
+nodemon
+tslint
+npm install prettier  --save-dev
